@@ -1,49 +1,59 @@
+🧮 Calculator Web Application
 
-# 🧮 Calculator Web Application
+A responsive and interactive Calculator Web Application built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations and provides a clean user-friendly interface for users.
 
-A simple, responsive, and interactive calculator built using **HTML, CSS, and JavaScript**.  
-It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+🚀 Live Demo
 
----
+https://calculator-387348512784.asia-southeast1.run.app
 
-## 🚀 Live Demo
-👉 https://calculator-387348512784.asia-southeast1.run.app
+📌 Features
 
----
-
-## 📌 Features
 - Addition (+)
 - Subtraction (−)
 - Multiplication (×)
 - Division (÷)
-- Clear screen (AC)
-- Delete last digit (DEL)
-- Responsive design (mobile + desktop)
-- Clean and user-friendly UI
+- Clear Screen (AC)
+- Delete Last Digit (DEL)
+- Responsive Design
+- User-Friendly Interface
+- Real-Time Calculation Display
 
----
+🛠️ Technologies Used
 
-## 🛠️ Technologies Used
-- HTML5 → Structure
-- CSS3 → Styling & layout
-- JavaScript → Functionality & logic
+- HTML5
+- CSS3
+- JavaScript
 
----
+📂 Project Structure
 
-## 📁 Project Structure
----
+Prashanti_Task1_Calculator/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-## ⚙️ How to Run This Project
-1. Download or clone this repository  
-2. Open `index.html` in any browser  
-3. Start using the calculator 🎉  
+⚙️ Installation
 
----
+1. Clone the repository:
+   git clone <repository-link>
 
-## 👨‍💻 Author
-Made with ❤️ by **Prashanti**
+2. Open the project folder.
 
----
+3. Run index.html in any web browser.
 
-## ⭐ Support
-If you like this project, give it a ⭐ on GitHub
+🎯 Learning Outcomes
+
+- DOM Manipulation
+- Event Handling
+- Responsive Web Design
+- JavaScript Functions
+- UI Development
+
+👩‍💻 Author
+
+Boddepalli Prashanti
+
+⭐ Support
+
+If you like this project, please give it a star on GitHub.
