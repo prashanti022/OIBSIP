@@ -4,7 +4,7 @@ A responsive and interactive Calculator Web Application built using HTML, CSS, a
 
 🚀 Live Demo
 
-👉 https://calculator-387348512784.asia-southeast1.run.app
+👉 https://dazzling-cajeta-442e5d.netlify.app/
 
 📌 Features
 
